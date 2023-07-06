@@ -1,0 +1,520 @@
+@media screen and (max-width: 1500px) {
+    #showSerialPaginationFlex {
+        scroll-behavior: smooth;
+        margin-bottom: 7rem;
+    }
+    .video-player-page>div {
+        width: 100%;
+        height: 130%;
+    }
+}
+@media screen and (max-width: 1400px) {
+    .ddd{
+        margin-left: 1rem;
+    }
+}
+@media screen and (max-width: 1220px) {
+    .btns-nav {
+        margin-right: 2rem !important;
+    }
+    .dowload-page-name {
+        font-size: 5rem !important;
+    }
+}
+@media screen and (max-width: 1000px) {
+    .btns-nav {
+        margin-right: 2rem !important;
+    }
+}
+@media screen and (max-width: 920px) {
+    .film-pagination-number{
+        height: 0rem;
+        position: fixed;
+        top: auto;
+        bottom: 14rem;
+    }
+    .serial-pagination-number {
+        height: 0px !important;
+        bottom: 15rem !important;
+        margin: 0 !important;
+        top: auto !important;
+
+    }
+    .respon-ul-nav{
+        display: flex !important;
+    }
+    .content {
+        transition: all ease-out 1.5s;
+    }
+    .ul-nav{
+        display: none;
+    }
+    .logo-nav>img {
+        width: 5rem;
+        margin-top: 0.7rem;
+        margin-right: -1rem;
+    }
+    .btns-nav {
+        margin-right: 65% !important;
+    }
+    .respon-btn-nav {
+        display: block;
+        margin: 0 12% 0 90%;
+    }
+    .hide-search-bar>input {
+        margin-right: 1rem;
+    }
+    .hide-search-bar {
+        width: 35%;
+        left: 1rem !important;
+    }
+    .search-hide-btn-nav{
+        font-size: 2.3rem !important;
+        margin: 37px -16px 0px 0px !important;
+    }
+    .hide-search-bar>input {
+        margin-right: -2rem !important;
+    }
+    .suggestion {
+        width: 32% !important;
+        left: 2rem !important;
+    }
+    #showSerialPaginationFlex {
+        margin-bottom: 17rem !important;
+    }
+    #showSerialPaginationFlex{
+        margin-bottom: 7rem !important;
+    }
+     .serial-pagination-number {
+        bottom: 12rem !important;
+    }
+    .film-pagination-number {
+        bottom: 12rem;
+    }
+    .btns-nav {
+        margin-right: 46% !important;
+    }
+}
+@media screen and (max-width: 840px) {
+    .mom-download-page {
+        flex-direction: column;
+    }
+    .decribte-download-film {
+        margin-top: 10% !important;
+        width: 80%;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+    .see-online {
+        position: absolute;
+        right: 45rem;
+        width: 17rem;
+        margin-right: 9%;
+    }
+    .doenload-film {
+        width: 100vw !important;
+        height: 100% !important;
+        padding: 0px;
+        margin: 0px;
+        flex-direction: column !important;
+        margin-bottom: 12% !important;
+    }
+    .dowload-page-name {
+        width: 100%!important;
+        /* position: static; */
+        top: auto;
+        left: auto !important;
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        justify-content: center !important;
+        margin: 0px !important;
+        padding: 0px !important;
+        margin-top: -4rem !important;
+        font-size: 5rem;
+    }
+    .doenload-film hr {
+        display: none;
+    }
+    .doenload-film .social{
+        display: none !important;
+    }
+    .see-online {
+        position: static;
+        width: 15rem;
+        margin: 0 auto !important;
+        margin-top: 7% !important;
+    }
+}
+@media screen and (max-width: 810px) {
+    .discrition-film {
+        width: 100% !important;
+    }
+    .suggestion {
+        width: 37% !important;
+    }
+    .logo-nav>img {
+        width: 5rem;
+        margin-top: 0.7rem;
+        margin-right: -1rem;
+    }
+    .btns-nav {
+        margin-right: 48%;
+    }
+    .respon-btn-nav {
+        display: block;
+        margin: 0 12% 0 90%;
+    }
+    .hide-search-bar {
+        width: 40%;
+    }
+}
+@media screen and (max-width: 780px) {
+    .downloadfilm-btn {
+        margin-left: -58% !important;
+    }
+    .discrition-film {
+        width: 100% !important;
+    }
+    .downloadfilm-btn{
+        margin-left: -40% !important;
+    }
+    .show-film-name{
+        margin-left: 0% !important;
+    }
+    .suggestion {
+        width: 42% !important;
+    }
+    .btns-nav {
+        margin-right: 50% !important;
+    }
+    .hide-search-bar {
+        width: 45%;
+    }
+    .hide-search-bar>input {
+        margin-right: -2rem !important;
+    }
+    .see-online {
+        right: 36rem;
+    }
+    .btns-nav {
+        margin-right: 39% !important;
+        margin-left: 0px !important;
+    }
+}
+@media screen and (max-width: 700px) {
+    .btns-nav {
+        margin-right: 30% !important;
+        margin-left: 0px !important;
+    }
+}
+@media screen and (max-width: 640px) {
+    .downloadfilm-btn {
+        margin-left: -50% !important;
+    }
+    .discrition-film {
+        width: 100% !important;
+    }
+    .head-serials-in-playing h3 {
+        font-size: 250%;
+        margin-left: -4rem;
+    }
+    .serials-in-playing-btn {
+        font-size: 161% !important;
+    }
+    .suggestion {
+        width: 47% !important;
+    }
+    .logo-nav>img {
+        margin-right: -2rem;
+    }
+    .hide-search-bar {
+        width: 50%;
+    }
+    .see-online {
+        right: 25rem;
+        font-size: 2rem !important;
+        width: 15rem;
+    }
+    .btns-nav {
+        margin-right: 20% !important;
+    }
+}
+@media screen and (max-width: 550px) {
+    .film-score {
+        margin: -5% 80% -4% 9% !important;
+    }
+    .show-serial-pagination-flex div:hover .hide-cover-serial {
+        display: flex;
+        font-size: 2.5rem;
+        text-align: center;
+        justify-content: flex-start !important;
+        align-items: flex-start !important;
+        width: 100%;
+        height: 100%;
+        overflow-y: scroll;
+        padding: 1.5rem !important;
+    }
+    .discrition-film {
+        width: 100% !important;
+    }
+    .suggestion {
+        width: 46% !important;
+    }
+    .logo-nav>img {
+        margin-right: -4rem !important;
+    }
+    .respon-ul-nav li, .respon-ul-nav a, .respon-ul-nav i {
+        font-size: 2rem !important;
+    }
+    .hide-search-bar>input {
+        margin-right: -1rem !important;
+    }
+    .show-serial-pagination-flex div {
+        width: 78%;
+        height: 20rem;
+    }
+    .serial-score {
+        margin-top: -1.85rem !important;
+        margin-right: 82% !important;
+    }
+    .show-serial-pagination-flex div:hover .hide-cover-serial {
+        font-size: 3rem;
+        width: 100% !important;
+        height: 100% !important;
+    }
+    .show-serial-pagination-flex div {
+        margin: 0 auto !important;
+    }
+    .show-film-pagination-flex div {
+        margin: 0 auto !important;
+
+    }
+    .show-serial-pagination-flex a {
+        margin: 1rem auto 1rem auto !important;
+        height: 29rem !important;
+        width: 50rem;
+    }
+    .show-film-pagination-flex a {
+        margin: 3rem auto 1rem auto !important;
+        height: 29rem !important;
+        width: 50rem;
+    }
+    .btns-nav {
+        margin-right: 9% !important;
+    }
+}
+@media screen and (max-width: 480px) {
+    .owl-theme .item h2 {
+        margin-top: -6rem !important;
+    }
+    .show-film-name{
+        position: relative;
+        top: 30rem !important;
+        margin-right: -37% !important;
+        font-size: 5rem !important;
+    }
+    .discrition-film {
+        width: 100% !important;
+        margin-top: 3rem !important;
+    }
+    .owl-theme .item{
+        width: 16rem !important;
+        height: 24rem !important;
+    }
+    .grid-serials-in-playing>div {
+        width: 43rem;
+        height: 24.6rem;
+    }
+    .serials-in-playing-btn {
+        width: 35rem !important;
+    }
+    .show-scroll-film span{
+        display: none;
+    }
+    .show-scroll-film h2 {
+        position: relative;
+        font-size: 6rem;
+        margin-left: 40%;
+        top: 32rem;
+    }
+    .mom-footer{
+        height: auto !important;
+    }
+    .describe-footer>p {
+        width: 153%;
+        padding: 0 1rem;
+        border-right: 1px solid snow;
+        border-left: 1px solid snow;
+        border-bottom: 0px !important;
+    }
+    .describe-footer>h3 {
+        text-align: center;
+        width: 103%;
+    }
+    .mom-footer {
+        height: 100rem;
+    }
+    .describe-footer {
+        grid-column: 1/4;
+        grid-row: 1/2;
+    }
+    .frequently-asked {
+        grid-column: 1/4;
+        grid-row: 2/3;
+    }
+    .social-footer {
+        height: 10rem;
+        grid-column: 1/4;
+        grid-row: 3/4;
+        flex-direction: row;
+    }
+    .beauty-footer {
+        grid-column: 1/4;
+        grid-row: 4/5;
+        display: none !important;
+    }
+    .footer {
+        height: 110rem !important;
+    }
+    .grid-serials-in-playing>div p {
+        text-align: center;
+        color: var(--second-color);
+        font-size: 2.2rem;
+        width: 13%;
+        margin: -25px 84% 0px 0px;
+    }
+    .grid-serials-in-playing>div h2 {
+        margin: 207px 8px 0px 10px;
+        width: 68%;
+    }
+    .head-serials-in-playing h3 {
+        margin-right: 1rem;
+    }
+    
+    .head-serials-in-playing{
+        margin-bottom: 1rem;
+    }
+    .mom-scroll-film {
+        flex-direction: column;
+    }
+    .scroll-film {
+        width: 85%;
+        height: 2%;
+        margin-top: -10rem;
+    }
+    .show-scroll-film {
+        width: 100%;
+        height: 100%;
+    }
+    .scroll-film{
+        width: 146%;
+    }
+    
+    .segestion-flex{
+        margin-top: 13rem !important;
+        border-right: solid 1px snow;
+        border-left: solid 1px snow;
+    }
+    .suggestion {
+        width: 45.64% !important;
+    }
+    .hide-search-bar>input {
+        margin-right: 0rem !important;
+    }
+    .score-film{
+        display: none;
+    }
+    .serial-score {
+        width: 16%;
+        font-size: 2.5rem;
+        margin: -10px 82% 0px 12%;
+    }
+    .show-film-pagination-flex div {
+        width: 100%;
+        height: 100%;
+    }
+    
+    .decribte-download-film {
+        width: 90%;
+        margin-top: 20%;
+    }
+    .show-serial-pagination-flex div {
+        width: 100% !important;
+        height: 100%!important;
+    }
+    .btns-nav {
+        margin-right: 0% !important;
+    }
+}
+@media screen and (max-width: 450px) {
+    .btns-nav {
+        margin-right: -10% !important;
+    }
+}
+@media screen and (max-width: 420px) {
+    
+    .grid-serials-in-playing>div h2 {
+        margin: 146px 8px 0px 10px;
+        width: 68%;
+        font-size: 300%;
+    }
+    .discrition-film {
+        margin-top: 5rem;
+    }
+    .score-film {
+        margin-left: 35%;
+        position: absolute;
+        top: 60rem;
+    }
+    .forgot-pass-helper-page{
+        margin: auto 0 33rem 0 !important;
+    }
+    html{
+        font-size: 7px;
+    }
+    .respon-ul-nav li, .respon-ul-nav a, .respon-ul-nav i{
+        font-size: 1.8rem !important;
+        width: 100%;
+        font-size: 3rem !important;
+    }
+    .logining-click{
+        font-size: 2rem !important;
+        transition: all linear 0.3s;
+    }
+    .logining-click:hover{
+        filter: brightness(120%);
+    }
+    .logining-click:active{
+        filter: brightness(50%);
+    }
+    .hide-search-bar>input {
+        margin-right: 0rem !important;
+        left: 5rem !important;
+    }
+    .hide-search-bar>i {
+        margin-top: 3.5rem !important;
+        margin-right: -1rem !important;
+        margin-left: 0.5rem !important;
+    }
+    .show-film-pagination-flex div {
+        width: 100%;
+        height: 100%;
+    }
+    .see-online {
+        margin-top: 30% !important;
+    }
+    .grid-serials-in-playing div p {
+        margin: -20px 193px 3px 10px;
+    }
+    .describe-hide-for-film{
+        margin: 0 auto !important;
+    }
+    .btns-nav {
+        margin-right: 17% !important;
+    }
+    .logo-nav>img {
+        width: 5rem;
+        margin-top: 0.5rem;
+    }
+}
